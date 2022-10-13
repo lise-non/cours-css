@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "bootstrap-icons": "^1.9.1"
   }
 }
